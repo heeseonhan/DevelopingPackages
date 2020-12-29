@@ -5,4 +5,4 @@
 4	Eclipse와 rJava 연동  
 5	R에서 컴파일된 코드 사용  
 6	R 패키지 제작  
-7	윈도우 환경의 R에서 C 코드 사용하기  
+7	윈도우 환경의 R에서 C 코드 사용하기   https://youtu.be/fj_bvPtCY60
